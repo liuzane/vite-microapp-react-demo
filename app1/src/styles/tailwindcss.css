@@ -1,0 +1,24 @@
+@layer theme, base, antd, components, utilities;
+@import "tailwindcss";
+
+@layer utilities {
+  .text-primary {
+    color: var(--ant-color-primary);
+  }
+  
+  .text-success {
+    color: var(--ant-color-success);
+  }
+
+  .text-warning {
+    color: var(--ant-color-warning);
+  }
+
+  .text-danger {
+    color: var(--ant-color-error);
+  }
+
+  .text-info {
+    color: var(--ant-color-info);
+  }
+}

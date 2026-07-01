@@ -1,0 +1,10 @@
+{
+  "latestErrorEvent": {
+    "code": "TYPE-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"npx tsc --project /Users/liuzheng/Github/vite-microapp-react-demo/shared/node_modules/.federation/tsconfig.d5e49c2b32777171af57f442340dfcfd.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "args": {
+      "cmd": "npx tsc --project /Users/liuzheng/Github/vite-microapp-react-demo/shared/node_modules/.federation/tsconfig.d5e49c2b32777171af57f442340dfcfd.json"
+    },
+    "timestamp": 1781576961525
+  }
+}
